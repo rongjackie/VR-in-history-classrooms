@@ -8,7 +8,7 @@ We share the questionnaires used to collect data in this project.
 
 The original documents were prepared in Chinese. The English versions are translated and shared as reference. 
 
-Reference
+### Reference
 
 [1] Fiore A M, Jin H J. Influence of image interactivity on approach responses towards an online retailer. Internet Research, 2003, 13(1): 38-48.
 
