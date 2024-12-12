@@ -9,6 +9,7 @@ We share the questionnaires used to collect data in this project.
 The original documents were prepared in Chinese. The English versions are translated and shared as reference. 
 
 Reference
+
 [1] Fiore A M, Jin H J. Influence of image interactivity on approach responses towards an online retailer. Internet Research, 2003, 13(1): 38-48.
 [2] Kim T, Biocca F. Telepresence via television: Two dimensions of telepresence may have different connections to memory and persuasion. Journal of computer-mediated communication, 1997, 3(2): JCMC325.
 [3] Schubert T,Friedmann F, Regenbrecht H.The experience of presence:Factor analytic insights. Presence: Teleoperators and Virtual Environments,2001,10(3):266-281.
